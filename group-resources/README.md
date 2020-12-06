@@ -1,6 +1,6 @@
 # Group information and resources
 
-Find the **group chat** here t.me/CodexAmiatinus
+Find the **group chat** here https://t.me/CodexAmiatinus
 
 Find the **basic cheatsheet** on the script here https://github.com/hansel-reinhart/codex-amiatinus/blob/main/group-resources/20201206%20uncial.png
 

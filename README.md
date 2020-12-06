@@ -1,6 +1,6 @@
 # codex-amiatinus
 
-## Transcription of the scanned images of the oldest complete and extant bible of any language; the Codex Amiatinus and it's exact and precise translation into English.
+## Transcription of the scanned images of the oldest complete and extant bible of any language; the Codex Amiatinus and its exact and precise translation into English.
 
 ### Mission plan:
 

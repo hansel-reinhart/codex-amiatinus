@@ -4,6 +4,8 @@ Find the **group chat** here https://t.me/CodexAmiatinus
 
 Find the **basic cheatsheet** on the script here https://github.com/hansel-reinhart/codex-amiatinus/blob/main/group-resources/20201206%20uncial.png
 
+Find **text file layout example** here https://github.com/hansel-reinhart/codex-amiatinus/blob/main/group-resources/20201207%20layout.png
+
 Find the **scanned pages** here https://github.com/hansel-reinhart/codex-amiatinus/tree/main/manuscript
 
 Find the machine OCR **text files** (for you to correct) here https://github.com/hansel-reinhart/codex-amiatinus/tree/main/transcription

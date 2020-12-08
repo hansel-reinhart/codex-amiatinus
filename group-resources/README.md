@@ -22,7 +22,11 @@ Find the machine OCR **text files** (for you to correct) here https://github.com
 
 ## Volunteer page allocation
 
-**Proof reading each submitted page** [Hans] & [Caesar]
+**Proof reading each submitted page** [Hans] & [Cæsar]
+
+-. **0001-2056** [Cæsar] ~~Proof reading,~~ spacebar adding; *Mors XX a key dabis mihi.*
+
+-
 
 a. **0001-0040** [Hans]
 

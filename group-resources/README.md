@@ -24,9 +24,7 @@ Find the machine OCR **text files** (for you to correct) here https://github.com
 
 **Proof reading each submitted page** [Hans] & [Cæsar]
 
--. **0001-2056** [Cæsar] ~~Proof reading,~~ spacebar adding; *Mors XX a key dabis mihi.*
-
--
+- **0001-2056** [Cæsar] ~~Proof reading,~~ spacebar adding; *Mors C̅C̅ pressionibus claviaturæ*
 
 a. **0001-0040** [Hans]
 

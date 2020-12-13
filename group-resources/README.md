@@ -24,7 +24,7 @@ Find the machine OCR **text files** (for you to correct) here https://github.com
 
 1. For nomina sacra (sacret abbreviations) use [Combining Overline u0305] diacritic over the entire abbreviation. i.e. D̅N̅S̅
 
-2. For words abbreviated at the end of a line, use [Combining Overline u0305] diacritic over the final character. i.e. DECIM̄
+2. For words abbreviated at the end of a line, use [Combining Overline u0305] diacritic over the final character. i.e. DECIM̅
 
 3. For anything NOT APART OF THE TEXT such as notes or verse markers, put the text between { }. i.e. {verse 1-2}
 

@@ -20,6 +20,16 @@ Find the machine OCR **text files** (for you to correct) here https://github.com
 
 4. Watch and enjoy the development of the project!
 
+## Formatting quick tips
+
+1. For nomina sacra (sacret abbreviations) use [Combining Overline u0305] diacritic over the entire abbreviation. i.e. D̅N̅S̅
+
+2. For words abbreviated at the end of a line, use [Combining Overline u0305] diacritic over the final character. i.e. DECIM̄
+
+3. For anything NOT APART OF THE TEXT such as notes or verse markers, put the text between { }. i.e. {verse 1-2}
+
+4. For corrections THAT ARE APART OF THE TEXT such as word inserts, or character inserts, put the text between ( ). i.e. PA(T)RARAT. **Note: Do not correct any typos, preserved misspelt words. This is only for corrections done by the manuscript scribe.**
+
 ## Volunteer page allocation
 
 **Proof reading each submitted page** [Hans] & [Cæsar]

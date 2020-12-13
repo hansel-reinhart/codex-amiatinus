@@ -28,7 +28,7 @@ Find the machine OCR **text files** (for you to correct) here https://github.com
 
 3. For anything NOT A PART OF THE TEXT such as notes or verse markers, put the text between { }. i.e. {verse 1-2}
 
-4. For corrections THAT ARE A PART OF THE TEXT such as word inserts, or character inserts, put the text between ( ). i.e. PA(T)RARAT. **Note: Do not correct any typos, preserved misspelt words. This is only for corrections done by the manuscript scribe.**
+4. For corrections THAT ARE A PART OF THE TEXT such as word inserts, or character inserts, put the text between ( ). i.e. PA(T)RARAT. **Note: Do not correct any typos, preserve misspelt words. This is only for corrections done by the manuscript scribe.**
 
 ## Volunteer page allocation
 

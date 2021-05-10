@@ -27,4 +27,5 @@ Machine OCR **text files** (for you to correct) here https://github.com/hansel-r
  - This Codex often splits words and finishes them on a newline. The transcription will use a **tilde ~** to denote when a word continues to the next line.
 
 >HIEZECI~
+
 >HEL
